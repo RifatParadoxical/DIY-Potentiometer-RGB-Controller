@@ -20,9 +20,6 @@ A manual RGB color mixing system using three potentiometers and an Arduino. Cont
 ## How It Works
 Each potentiometer controls one color channel (Red, Green, Blue). The Arduino reads analog inputs (0-1023) and maps them to PWM output values (0-255) to control LED brightness.
 
-## Installation & Setup
-[Include setup instructions, wiring guide, and any calibration steps]
-
 ## Usage
 Rotate each potentiometer to adjust the corresponding color intensity and create your desired color.
 
